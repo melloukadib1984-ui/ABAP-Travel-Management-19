@@ -1,0 +1,9 @@
+@EndUserText.label: 'Travel Access Control'
+@MappingRole: true
+
+define role ZR_TRAVEL_19 {
+  grant
+    select
+      on
+        ZI_TRAVEL_19;
+}

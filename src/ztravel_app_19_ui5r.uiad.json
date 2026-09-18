@@ -1,0 +1,34 @@
+{
+  "formatVersion": "2",
+  "header": {
+    "description": "Travel Management",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "generalInformation": {
+    "appType": "ui5",
+    "catalogId": "SAP_TC_UI5_REPO_UIAD",
+    "targetMappingTitle": "Travel Management"
+  },
+  "ui5AppDetails": {
+    "appId": "ztravelapp19"
+  },
+  "navigation": {
+    "targetMappingId": "ZTRAVEL_APP_19_UI5R_TM",
+    "semanticObject": "ZTravel",
+    "action": "display",
+    "desktop": true,
+    "tablet": true,
+    "phone": true
+  },
+  "tiles": [
+    {
+      "id": "ZTRAVEL_APP_19_UI5R_AL",
+      "tileType": "static",
+      "isDefault": true,
+      "standard": {
+        "title": "Travel Management"
+      }
+    }
+  ]
+}
